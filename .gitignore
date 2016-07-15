@@ -1,0 +1,53 @@
+No clue what this is, but im saving my CCS and HTML code here for no reason.
+
+The CSS 
+
+#nerd {
+    color: blue;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline; 
+    font-size: 20px
+}
+body {
+    background-color: red
+}
+P {
+    color: #7FFF00
+}
+a:hover {
+    text-decoration: none 
+}
+a:first-child {
+    color: #cdbe70
+}
+a:nth-child(3) {
+    color: #ffc125
+}
+
+________________________________________________________________________________________________________________________________________
+The HTML 
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<!--Add your HTML below!-->
+		    <div id="nerd">The Based Community</div>
+		<p>I am going to show you all my project reality community.  We are the BASED Community, and our website is <a href="https://www.alwaysbased.com/">www.AlwaysBASED.com</a>.  I hope that you have a wonderful experience in our community!.
+		    </div>
+		</p>
+		    <div id="nerd">PRTA: Project Reality Teamwork Alliance</div>
+		<p>PRTA is a team based Project Reality clan with pretty shitty management.  This is <a href="https://www.prteamwork.com/">PRTA's Website</a>, go here if you want to have a great time and meet new people!
+		</p>
+		    </div>
+		    <div id="nerd">Bluedrake's Shitty Community</div>
+		<p> Yeah, I am not going to say much about them.  Go to <a href="https://www.bluedrake42.com/">Bluedrake42.com</a> if you want cancer.
+		</p>
+		    </div>
+	</body>
+</html>
